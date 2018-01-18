@@ -15,7 +15,7 @@ I tried to compare simple regression and artificial neural network (ANN), but fo
 
 |         | Generalization Error (25 Epochs) |
 | ------------- |:-------------:|
-| AVERAGE | 0.4897 |
+| __Average__ | 0.4897 |
 	
 ## Conclusion:	
 
